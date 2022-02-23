@@ -93,7 +93,7 @@ main {
   grid-gap: 1rem;
 
   border: 1px solid #000;
-  border-radius: 0 0 0.25rem 0.25rem;
+  border-bottom: none;
 }
 
 #filter-by-type-form label {
